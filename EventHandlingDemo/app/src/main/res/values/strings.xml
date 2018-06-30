@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EventHandlingDemo</string>
+    <string name="buttonMsg">You just clicked the button!!</string>
+</resources>
